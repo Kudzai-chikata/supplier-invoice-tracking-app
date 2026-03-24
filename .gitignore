@@ -1,0 +1,21 @@
+# Flutter/Dart stuff
+**/build/**
+**/ios/Flutter/Flutter.h
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/**
+.dart_tool/
+.packages
+pubspec.lock
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Sensitive configuration
+.env
+*.jks
+*.keystore
