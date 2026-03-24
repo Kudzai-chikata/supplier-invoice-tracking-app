@@ -1,0 +1,14 @@
+name: supplier_invoice_tracking_app
+
+description: A new Flutter project.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+
+flutter:
+  uses-material-design: true
